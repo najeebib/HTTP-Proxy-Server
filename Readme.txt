@@ -1,6 +1,4 @@
-id: 319051066
-name: najeeb ibraheem
-exercise name: HTTP Proxy Server
+HTTP Proxy Server
 
 submited files:
 1. threadpool.c: the threadpool implimintation file.
